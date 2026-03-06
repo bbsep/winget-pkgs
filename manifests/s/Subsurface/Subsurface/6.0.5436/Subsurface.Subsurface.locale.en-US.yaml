@@ -1,8 +1,8 @@
-# Created with komac v2.13.0
-# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.10.0.schema.json
+# previous version Created with komac v2.13.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
 
 PackageIdentifier: Subsurface.Subsurface
-PackageVersion: 6.0.5436
+PackageVersion: 6.0.5504
 PackageLocale: en-US
 Publisher: Subsurface
 PublisherUrl: https://github.com/subsurface/
@@ -20,4 +20,4 @@ Tags:
 - logs
 - tracking
 ManifestType: defaultLocale
-ManifestVersion: 1.10.0
+ManifestVersion: 1.12.0
